@@ -1,0 +1,1 @@
+Trabalho da primeira cadeira de Interfaces Web. Objetivo era deixar igual ao design inicial que o professor responsável pela disciplina escolheu, então não houve possibilidade de explorar um design mais moderno. 
